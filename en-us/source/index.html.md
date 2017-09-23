@@ -26,11 +26,11 @@ If you faced any problem while using this documentation, feel free to send us on
 ```html
 <meta charset="UTF-8">
 <link rel="import" href="https://jste-manager.herokuapp.com/loader.min.js">
-<en-uk>
+<en-us>
 
 	// All of your code will be only here
 
-</en-uk>
+</en-us>
 ```
 1\. To get started, you have to be sure first that you have the following requirements:
 
