@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Jste Documentation</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <link rel="icon" href="assets/img/favicon.ico">
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="assets/CSS/vue.css">
+</head>
+
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      search: 'auto', // default
+
+      search: [
+        '/en/',
+        '/arz/',
+        '/ar/'
+      ],
+      search: {
+        maxAge: 86400000,
+        placeholder: {
+          '/arz/': 'اعمل سيرش',
+          '/ar/': 'ابحث',
+          '/en-us/': 'Search',
+          '/en-uk/': 'Search'
+        },
+        noData: {
+          '/arz/': 'مفيش حاجة اسمها كدة!',
+          '/ar/': 'لم يتم العثور على نتائج!',
+          '/en-us/': 'No Results Has Been Found !',
+          '/en-uk/': 'No Results Has Been Found !'
+        }
+      },
+      onlyCover: true,
+      coverpage: {
+        '/': 'coverpage.md',
+        '/en-us/': 'coverpage.md',
+        '/en-uk/': 'coverpage.md',
+        '/arz/': 'coverpage.md',
+        '/ar/': 'coverpage.md'
+      }
+    }
+  </script>
+  <script src="assets/JS/docsify.js"></script>
+  <script src="assets/JS/search.min.js"></script>
+  <script src="assets/JS/front-matter.min.js"></script>
+  <script src="assets/JS/emoji.min.js"></script>
+</body>
+
+</html>
