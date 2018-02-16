@@ -443,9 +443,9 @@ direction | The direction from which the tooltip will be emitted | from the bott
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
-font color | The color of the icon.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
-font size | The size of the icon.
+font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 animation | The animation of this element on loading it | null | <a href="#animations">See the animations section</a>
 transparency | The transparency of this element | null | 0~100
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
