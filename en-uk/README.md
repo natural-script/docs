@@ -943,6 +943,8 @@ To determine the time every which the command will be executed you have to write
 <aside class="note">To learn more about the period units, please refer to <a href="#time-periods">the periods section</a></aside>
 
 ## Removing Elements
+
+<em>Script ID: S1</em><br>
 You can remove any element or component programmatically while the running of your site or app through the removing commands as in the following:
 
 ### Removing the same element on which the event has been applied
@@ -960,6 +962,7 @@ You can remove another element rather than the one on which the event has been a
 
 ## Hyperlinking
 
+<em>Script ID: S2</em><br>
 Through Jste Framework, you have the ability to add hyperlinks to any element you want. Not only activated on clicking that element, but on firing any event you specifiy.
 
 You can add six hyperlinks types as in the following:
@@ -1016,18 +1019,24 @@ You can add a hyperlink to any sidebar exists in your page through the code <cod
 You can control the media players programmatically and apply many commands on them like playing or pausing them as in the following:
 
 ### Playing
+
+<em>Script ID: S3</em><br>
 ```javascript
 When it has been clicked, play THE_ELEMENT_NAME
 ```
 You can play any video or audio on firing an event on any element you want by its name through the command <code>play THE_ELEMENT_NAME</code> as in the example.
 
 ### Pausing
+
+<em>Script ID: S4</em><br>
 ```javascript
 When it has been clicked, pasue THE_ELEMENT_NAME
 ```
 You can pause any video or audio on firing an event on any element you want by its name through the command <code>pause THE_ELEMENT_NAME</code> as in the example.
 
 ### Setting the time position to an absolute value
+
+<em>Script ID: S5</em><br>
 ```javascript
 When it has been clicked, set the time position of THE_ELEMENT_NAME to 5
 ```
@@ -1036,6 +1045,8 @@ You can set the current time position of any video or audio to any value in seco
 <aside class="note">To learn more about the absolute values syntax, please refer to <a href="#absolute-values">the absolute values section</a>.</aside>
 
 ### Setting the time position to a value of another element
+
+<em>Script ID: S5</em><br>
 ```javascript
 When it has been clicked, set the time position of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME
 ```
@@ -1043,6 +1054,7 @@ You can set the current time position of any video or audio to a value requested
 
 ## Elements values
 
+<em>Script ID: S6</em><br>
 You can change the value of any element or component you want programmatically during the runtime of you site or app as in the following:
 
 ### Setting the value of the current element to an absolute value
@@ -1078,7 +1090,9 @@ When it has been clicked, set the value of THE_ELEMENT_NAME to the value of THE_
 
 You can change the value of any element to the value of another element through the command <code>set the value of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME</code> as in the example.
 
-## Elements Properties:
+## Elements Properties
+
+<em>Script ID: S17~S20 ( Varies according to the property )</em><br>
 ```javascript
 When it has been clicked, set the width of THE_ELEMENT_NAME to 30 pixels
 ```
@@ -1088,10 +1102,10 @@ When it has been clicked, set its background to a random dark colour
 
 You can change various properties of any element or component you want programmatically during the runtime of you site or app, and these properties are:
 
-1. background
-2. width
-3. length
-4. font colour
+1. background <em>Script ID: S19</em>
+2. width <em>Script ID: S17</em>
+3. length <em>Script ID: S18</em>
+4. font colour <em>Script ID: S20</em>
 
 and you can set them easily by replacing the word value in the example code in the <a href="#elements-values">elements values section</a> as in these two examples.
 
@@ -1103,6 +1117,7 @@ Jste Framework offers various commands to manage you Google Firebase Database wi
 
 ### Inserting Data
 
+<em>Script ID: S15</em><br>
 You can insert any data based on the values of the other elements in your Firebase database as in the following:
 
 #### Inserting Data To The Public Database
@@ -1122,6 +1137,7 @@ To insert data in the user's private database, you have to use the command <code
 
 ### Requesting Data
 
+<em>Script ID: S16</em><br>
 After inserting data in your Google Firebase database, you may want to request them later to use them in various purposes like setting them as values of the elements and the components of your site or app as in the following:
 
 #### Requesting Data From The Public Database
@@ -1145,6 +1161,8 @@ To request data from the user's private database, you have to use the command <c
 You can control the flashlight of the Android or the IOS device if your app is running inside the Jste manager app as in the following:
 
 ### Toggling The Flashlight
+
+<em>Script ID: S7</em><br>
 ```javascript
 When it has been clicked, toggle the flashlight
 ```
@@ -1152,6 +1170,8 @@ When it has been clicked, toggle the flashlight
 You can toggle the flashlight programatically by using the command: toggle the flashlight
 
 ### Turning On The Flashlight
+
+<em>Script ID: S8</em><br>
 ```javascript
 When it has been clicked, turn on the flashlight
 ```
@@ -1159,6 +1179,8 @@ When it has been clicked, turn on the flashlight
 You can turn on the flashlight programatically using the command: turn on the flashlight
 
 ### Turning Off The Flashlight
+
+<em>Script ID: S9</em><br>
 ```javascript
 When it has been clicked, turn off the flashlight
 ```
@@ -1170,6 +1192,8 @@ You can turn off the flashlight programatically using the command: turn off the 
 You can control the bluetooth of the Android device if your app is running inside the Jste manager app as in the following:
 
 ### Turning On The Bluetooth
+
+<em>Script ID: S12</em><br>
 ```javascript
 When it has been clicked, turn on the bluetooth
 ```
@@ -1181,6 +1205,8 @@ You can turn on the bluetooth programatically using the command: turn on the blu
 You can control the WIFI of the Android device if your app is running inside the Jste manager app as in the following:
 
 ### Turning On The WIFI
+
+<em>Script ID: S10</em><br>
 ```javascript
 When it has been clicked, turn on the WIFI
 ```
@@ -1188,6 +1214,8 @@ When it has been clicked, turn on the WIFI
 You can turn on the WIFI programatically using the command: turn on the WIFI
 
 ### Turning Off The WIFI
+
+<em>Script ID: S11</em><br>
 ```javascript
 When it has been clicked, turn off the WIFI
 ```
@@ -1199,6 +1227,8 @@ You can turn off the WIFI programatically using the command: turn off the WIFI
 You can control the on-scrren keyboard of the Android device if your app is running inside the Jste manager app as in the following:
 
 ### Showing The On-Screen Keyboard
+
+<em>Script ID: S13</em><br>
 ```javascript
 When it has been clicked, show the keyboard
 ```
@@ -1206,6 +1236,8 @@ When it has been clicked, show the keyboard
 You can show the on-screen keyboard programatically using the command: show the keyboard
 
 ### Hiding The On-Screen Keyboard
+
+<em>Script ID: S14</em><br>
 ```javascript
 When it has been clicked, hide the keyboard
 ```
