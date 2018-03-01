@@ -24,7 +24,7 @@
 # المكونات
 ## التهيئة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/setup.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/setup.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 هيئ السايت دة بالخواص دى:
 العنوان بتاعه استعراض جستى,
@@ -51,7 +51,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## مركز البيانات
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/firebaseCenter.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/firebaseCenter.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مركز البيانات بالخواص دى:
 اسم المستخدم بتاعه jste-9584c,
@@ -68,7 +68,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## فورم الدخول
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/loginForm.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loginForm.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف فورم الدخول.
 ```
@@ -78,7 +78,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## صفحة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/page.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/page.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف صفحة بالخواص دى:
 الاسم بتاعها عينة_صفحة.
@@ -95,7 +95,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## كلام
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/text.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/text.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف كلام بالخواص دى:
 الاسم بتاعه عينة_كلام,
@@ -137,8 +137,8 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## صورة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image.js">اعرض الكود المصدرى</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 ضيف صورة بالخواص دى:
 الاسم بتاعها غلاف_ماهر_زين_وان,
@@ -181,8 +181,8 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 ## فيديو
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video.js">اعرض الكود المصدرى</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 ضيف فيديو بالخواص دى:
 الاسم بتاعه فيديو_بيج_باك_بانى,
@@ -220,7 +220,7 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 ## مشغل صوت
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audioPlayer.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audioPlayer.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مشغل صوت بالخواص دى:
 الاسم بتاعه قايمة_تشغيل_ماهر_زين_وان,
@@ -258,8 +258,8 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 ## صوت
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio.js">اعرض الكود المصدرى</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 ضيف مشغل صوت بالخواص دى:
 الاسم بتاعه قايمة_تشغيل_ماهر_زين_وان,
@@ -303,7 +303,7 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 ## عرض شرايح
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slideshow.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slideshow.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف صفحة بالخواص دى:
 الاسم بتاعها صفحة_تجربة.
@@ -343,7 +343,7 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 ## طبق
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/container.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/container.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف صفحة بالخواص دى:
 الاسم بتاعه صفحة_الترحيب.
@@ -391,7 +391,7 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 ## زرار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/button.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/button.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف زرار مرفوع و مفتوح بالخواص دى:
 الاسم بتاعه عينة_زرار,
@@ -441,7 +441,7 @@ switched | Determine if this button is switched on or not.
 
 ## تلميح
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/tooltip.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/tooltip.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف زرار بالخواص دى:
 الاسم is عينة_زرار,
@@ -481,7 +481,7 @@ switched | Determine if this button is switched on or not.
 
 ## مكان كتابة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/textbox.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/textbox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف ضيف مكان كتابة بعداد بالخواص دى:
 الاسم بتاعه عينة_مكان_كتابة,
@@ -538,7 +538,7 @@ switched | Determine if this button is switched on or not.
 
 ## منزلق
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slider.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slider.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف منزلق بدبوس و بمعدل رقمى للقيمة بالخواص دى:
 الاسم بتاعه عينة_مكان-إدخال,
@@ -591,7 +591,7 @@ switched | Determine if this button is switched on or not.
 
 ## قايمة منسدلة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dropdownMenu.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dropdownMenu.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف قايمة منسدلة بالخواص دى:
 الاسم بتاعها قايمة_المميزات,
@@ -630,7 +630,7 @@ switched | Determine if this button is switched on or not.
 
 ## جدول
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/table.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/table.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف جدول بالخواص دى:
 الاسم بتاعه عينة_جدول,
@@ -665,7 +665,7 @@ switched | Determine if this button is switched on or not.
 
 ## مربع إختيار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/checkbox.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/checkbox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مربع إختيار مختار بالخواص دى:
 الاسم بتاعه عينة_جدول,
@@ -708,7 +708,7 @@ switched | Determine if this button is switched on or not.
 
 ## قايمة اختيار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/selectMenu.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/selectMenu.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف قايمة اختيار بالخواص دى:
 الاسم بتاعها نوع_الرسالة,
@@ -752,7 +752,7 @@ switched | Determine if this button is switched on or not.
 
 ## مربع حوار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dialogBox.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dialogBox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مربع حوار بالخواص دى:
 الاسم بتاعه intro_video_container,
@@ -785,7 +785,7 @@ switched | Determine if this button is switched on or not.
 
 ## شريط جانبى
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/sidebar.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/sidebar.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف شريط جانبى بالخواص دى:
 الاسم بتاعه الشريط_الجانبى_الرئيسى,

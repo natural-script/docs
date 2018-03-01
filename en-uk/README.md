@@ -25,7 +25,7 @@ If you faced any problem while using this documentation, feel free to send us on
 
 ## Setup
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/setup.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/setup.js">View Source Code</a></em><br>
 ```javascript
 configure this site with the following properties:
 its title is Jste Demo,
@@ -52,7 +52,7 @@ remote scrolling | Make the user be able to scroll remotly using the camera thro
 
 ## Firebase Centre
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/firebaseCenter.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/firebaseCenter.js">View Source Code</a></em><br>
 ```javascript
 add a firebase centre with the following properties:
 its username is jste-9584c,
@@ -69,7 +69,7 @@ password | Your API key for your firebase. | null | FIREBASE_API_KEY
 
 ## Login Form
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/loginForm.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loginForm.js">View Source Code</a></em><br>
 ```javascript
 add.login_form();
 ```
@@ -79,7 +79,7 @@ A login form and users system for your app or project powered by Google Firebase
 
 ## Page
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/page.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/page.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
 its name is A_sample_page.
@@ -96,7 +96,7 @@ name | The name you have given to this page. | null | THE_NAME
 
 ## Text
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/text.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/text.js">View Source Code</a></em><br>
 ```javascript
 add a text with the following properties:
 its name is A_sample_text,
@@ -138,8 +138,8 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Image
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image.js">View Source Code</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image-LiveVersion.js">View Live Version Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add an image with the following properties:
 its name is Maher_Zain_One_Cover,
@@ -182,8 +182,8 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Video
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video.js">View Source Code</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video-LiveVersion.js">View Live Version Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add a video with the following properties:
 its name is big_buck_bunny_video,
@@ -221,7 +221,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Audio Player
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audioPlayer.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audioPlayer.js">View Source Code</a></em><br>
 ```javascript
 add an audio player with the following properties:
 its name is Maher_Zain_One_Playlist,
@@ -259,8 +259,8 @@ autoplay | Make that audio player plays the track automatically once it has been
 
 ## Audio
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio.js">View Source Code</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio-LiveVersion.js">View Live Version Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add an audio_player with the following properties:
 its name is Maher_Zain_One_Playlist,
@@ -304,7 +304,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Slideshow
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slideshow.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slideshow.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
 its name is test.
@@ -344,7 +344,7 @@ autoplay | Make that carousel play automatically once it has been loaded.
 
 ## Container
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/container.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/container.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
 its name is welcome.
@@ -392,7 +392,7 @@ grid | set all the children to be appeared as a responsive row.
 
 ## Button
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/button.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/button.js">View Source Code</a></em><br>
 ```javascript
 add a raised and switched button with the following properties:
 its name is A_sample_button,
@@ -442,7 +442,7 @@ disabled | Determine if this button is disabled or not.
 
 ## Tooltip
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/tooltip.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/tooltip.js">View Source Code</a></em><br>
 ```javascript
 add a button with the following properties:
 its name is A_sample_button,
@@ -482,7 +482,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Writing Zone
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/textbox.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/textbox.js">View Source Code</a></em><br>
 ```javascript
 add a writing zone with a counter with the following properties:
 its name is A_sample_textbox,
@@ -539,7 +539,7 @@ disabled | Disables this field.
 
 ## Slider
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slider.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slider.js">View Source Code</a></em><br>
 ```javascript
 add a slider with a pin and with a digital value editor with the following properties:
 its name is A_sample_textbox,
@@ -592,7 +592,7 @@ disabled | Disables this slider.
 
 ## Dropdown Menu
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dropdownMenu.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dropdownMenu.js">View Source Code</a></em><br>
 ```javascript
 add a dropdown menu with the following properties:
 its name is features_menu,
@@ -631,7 +631,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Table
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/table.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/table.js">View Source Code</a></em><br>
 ```javascript
 add a table with the following properties:
 its name is A_sample_table,
@@ -666,7 +666,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Checkbox
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/checkbox.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/checkbox.js">View Source Code</a></em><br>
 ```javascript
 add a checked checkbox with the following properties:
 its name is A_sample_table,
@@ -708,7 +708,7 @@ disabled | Disables the selection of this checkbox.
 
 ## Select Menu
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/selectMenu.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/selectMenu.js">View Source Code</a></em><br>
 ```javascript
 add a select menu with the following properties:
 its name is message_type,
@@ -752,7 +752,7 @@ disabled | Disables the selection from this menu.
 
 ## Dialog Box
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dialogBox.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dialogBox.js">View Source Code</a></em><br>
 ```javascript
 add a dialog box with the following properties:
 its name is intro_video_container,
@@ -785,7 +785,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Sidebar
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/sidebar.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/sidebar.js">View Source Code</a></em><br>
 ```javascript
 add a sidebar with the following properties:
 its name is primary_sidebar,
@@ -819,7 +819,7 @@ commands | The commands which will be executed when making a specific action on 
 
 ## Loader
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/loader.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loader.js">View Source Code</a></em><br>
 ```javascript
 add a loader with the following properties:
 its name is loading_spinner,
