@@ -23,6 +23,8 @@
 
 # المكونات
 ## التهيئة
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/setup.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 هيئ السايت دة بالخواص دى:
 العنوان بتاعه استعراض جستى,
@@ -48,6 +50,8 @@
 remote scrolling | Make the user be able إلى scroll remotly using the camera through the hand geasture <code>بيحتاج الموافقة على الوصول للكاميرا</code>.
 
 ## مركز البيانات
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/firebaseCenter.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مركز البيانات بالخواص دى:
 اسم المستخدم بتاعه jste-9584c,
@@ -63,6 +67,8 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 كلمة السر | مفتاح الAPI بتاعك على الFirebase. | مفيش | FIREBASE_مفتاح_الAPI_على
 
 ## فورم الدخول
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/loginForm.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف فورم الدخول.
 ```
@@ -71,6 +77,8 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 <aside class="note">لحد دلوقتى العنصر دة بينضاف زى ما هوة من غير أى خواص</aside>
 
 ## صفحة
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/page.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف صفحة بالخواص دى:
 الاسم بتاعها عينة_صفحة.
@@ -86,6 +94,8 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 <aside class="note">تقدر انك توصل و تتنقل ما بين الصفحات عن طريق إضافة <code>?page=اسم_الصفحة</code> للرابط بتاع الصفحة أو الآب</aside>
 
 ## كلام
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/text.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف كلام بالخواص دى:
 الاسم بتاعه عينة_كلام,
@@ -126,6 +136,9 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 الأوامر | الأوامر اللى هتتنفذ بعد لما حد يعمل حاجة محددة للعنصر | مفيش | <a href="#/arz?id=الأوامر">شوف فصل الأوامر</a>
 
 ## صورة
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 ضيف صورة بالخواص دى:
 الاسم بتاعها غلاف_ماهر_زين_وان,
@@ -167,6 +180,9 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 
 
 ## فيديو
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 ضيف فيديو بالخواص دى:
 الاسم بتاعه فيديو_بيج_باك_بانى,
@@ -203,6 +219,8 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 الأوامر | الأوامر اللى هتتنفذ بعد لما حد يعمل حاجة محددة للعنصر | مفيش | <a href="#/arz?id=الأوامر">شوف فصل الأوامر</a>
 
 ## مشغل صوت
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audioPlayer.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مشغل صوت بالخواص دى:
 الاسم بتاعه قايمة_تشغيل_ماهر_زين_وان,
@@ -239,6 +257,9 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 بيشتغل الوحده | بتخلى مشغل الصوت يشغل الأغنية أوتوماتيك أول لما تخلص تحميل.
 
 ## صوت
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 ضيف مشغل صوت بالخواص دى:
 الاسم بتاعه قايمة_تشغيل_ماهر_زين_وان,
@@ -281,6 +302,8 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 الأوامر | الأوامر اللى هتتنفذ بعد لما حد يعمل حاجة محددة للعنصر | مفيش | <a href="#/arz?id=الأوامر">شوف فصل الأوامر</a>
 
 ## عرض شرايح
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slideshow.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف صفحة بالخواص دى:
 الاسم بتاعها صفحة_تجربة.
@@ -319,6 +342,8 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 بيشتغل الوحده | Make that carousel play automatically once it has been loaded.
 
 ## طبق
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/container.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف صفحة بالخواص دى:
 الاسم بتاعه صفحة_الترحيب.
@@ -365,6 +390,8 @@ FX | Applying the FX effect you have specified on this image. | مفيش | rain
 شبكة | بتخلى كل عناصر الطبق تظهر فى شكل صف متناسق الشكل و المسافات.
 
 ## زرار
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/button.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف زرار مرفوع و مفتوح بالخواص دى:
 الاسم بتاعه عينة_زرار,
@@ -413,6 +440,8 @@ switched | Determine if this button is switched on or not.
 مقفول | بتحدد لو الزرار مقفول و مينفعش يداش عليه و لا ﻷ.
 
 ## تلميح
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/tooltip.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف زرار بالخواص دى:
 الاسم is عينة_زرار,
@@ -451,6 +480,8 @@ switched | Determine if this button is switched on or not.
 الأوامر | الأوامر اللى هتتنفذ بعد لما حد يعمل حاجة محددة للعنصر | مفيش | <a href="#/arz?id=الأوامر">شوف فصل الأوامر</a>
 
 ## مكان كتابة
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/textbox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف ضيف مكان كتابة بعداد بالخواص دى:
 الاسم بتاعه عينة_مكان_كتابة,
@@ -506,6 +537,8 @@ switched | Determine if this button is switched on or not.
 مقفول | بتقفل مكان الكتابة.
 
 ## منزلق
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slider.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف منزلق بدبوس و بمعدل رقمى للقيمة بالخواص دى:
 الاسم بتاعه عينة_مكان-إدخال,
@@ -557,6 +590,8 @@ switched | Determine if this button is switched on or not.
 مقفول | بتقفل المنزلق.
 
 ## قايمة منسدلة
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dropdownMenu.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف قايمة منسدلة بالخواص دى:
 الاسم بتاعها قايمة_المميزات,
@@ -594,6 +629,8 @@ switched | Determine if this button is switched on or not.
 <aside class="note">عشان تعرف ازاى تعيين امر مخصوص لكل عنصر فى الليستة, تقدر تستعين بالمثال اللى فوق</aside>
 
 ## جدول
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/table.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف جدول بالخواص دى:
 الاسم بتاعه عينة_جدول,
@@ -627,6 +664,8 @@ switched | Determine if this button is switched on or not.
 الأوامر | الأوامر اللى هتتنفذ بعد لما حد يعمل حاجة محددة للعنصر | مفيش | <a href="#/arz?id=الأوامر">شوف فصل الأوامر</a>
 
 ## مربع إختيار
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/checkbox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مربع إختيار مختار بالخواص دى:
 الاسم بتاعه عينة_جدول,
@@ -668,6 +707,8 @@ switched | Determine if this button is switched on or not.
 مقفول | بتقفل و تمنع إختيار مربع الإختيار.
 
 ## قايمة اختيار
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/selectMenu.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف قايمة اختيار بالخواص دى:
 الاسم بتاعها نوع_الرسالة,
@@ -710,6 +751,8 @@ switched | Determine if this button is switched on or not.
 مقفولة | بتقفل قايمة الاختيار بحيث تمنع الاختيار منها.
 
 ## مربع حوار
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dialogBox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف مربع حوار بالخواص دى:
 الاسم بتاعه intro_video_container,
@@ -741,6 +784,8 @@ switched | Determine if this button is switched on or not.
 الأوامر | الأوامر اللى هتتنفذ بعد لما حد يعمل حاجة محددة للعنصر | مفيش | <a href="#/arz?id=الأوامر">شوف فصل الأوامر</a>
 
 ## شريط جانبى
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/sidebar.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 ضيف شريط جانبى بالخواص دى:
 الاسم بتاعه الشريط_الجانبى_الرئيسى,

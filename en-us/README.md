@@ -22,7 +22,10 @@ If you faced any problem while using this documentation, feel free to send us on
 3\. Save your code at any location on your PC after naming it <code>YOUR_DESIRED_NAME.html</code> and setting its encoding to <code>UTF-8</code>.
 
 # Components
+
 ## Setup
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/setup.js">View Source Code</a></em><br>
 ```javascript
 configure this site with the following properties:
 its title is Jste Demo,
@@ -48,6 +51,8 @@ Attribute | Description
 remote scrolling | Make the user be able to scroll remotly using the camera through the hand geasture <code>Requires the approval camera acsess</code>.
 
 ## Firebase Center
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/firebaseCenter.js">View Source Code</a></em><br>
 ```javascript
 add a firebase center with the following properties:
 its username is jste-9584c,
@@ -63,6 +68,8 @@ username | Your unique username on firebase. | null | FIREBASE_USERNAME
 password | Your API key for your firebase. | null | FIREBASE_API_KEY
 
 ## Login Form
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/loginForm.js">View Source Code</a></em><br>
 ```javascript
 add.login_form();
 ```
@@ -71,6 +78,8 @@ A login form and users system for your app or project powered by Google Firebase
 <aside class="note">Till now this component is added as it is without any properties</aside>
 
 ## Page
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/page.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
 its name is A_sample_page.
@@ -86,6 +95,8 @@ name | The name you have given to this page. | null | THE_NAME
 <aside class="note">You can acsess the pages by adding the param <code>?page=THE_PAGE_NAME</code> to the URL</aside>
 
 ## Text
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/text.js">View Source Code</a></em><br>
 ```javascript
 add a text with the following properties:
 its name is A_sample_text,
@@ -126,6 +137,9 @@ distance from the right | The distance between the right edge of the container c
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Image
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/image-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add an image with the following properties:
 its name is Maher_Zain_One_Cover,
@@ -167,6 +181,9 @@ commands | The commands which will be executed when making a specific action on 
 
 
 ## Video
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/video-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add a video with the following properties:
 its name is big_buck_bunny_video,
@@ -203,6 +220,8 @@ distance from the right | The distance between the right edge of the container c
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Audio Player
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audioPlayer.js">View Source Code</a></em><br>
 ```javascript
 add an audio player with the following properties:
 its name is Maher_Zain_One_Playlist,
@@ -239,6 +258,9 @@ Attribute | Description
 autoplay | Make that audio player plays the track automatically once it has been loaded.
 
 ## Audio
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio.js">View Source Code</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/audio-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add an audio_player with the following properties:
 its name is Maher_Zain_One_Playlist,
@@ -281,6 +303,8 @@ distance from the right | The distance between the right edge of the container c
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Slideshow
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slideshow.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
 its name is test.
@@ -319,6 +343,8 @@ Attribute | Description
 autoplay | Make that carousel play automatically once it has been loaded.
 
 ## Container
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/container.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
 its name is welcome.
@@ -365,6 +391,8 @@ Attribute | Description
 grid | set all the children to be appeared as a responsive row.
 
 ## Button
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/button.js">View Source Code</a></em><br>
 ```javascript
 add a raised and switched button with the following properties:
 its name is A_sample_button,
@@ -413,6 +441,8 @@ raised | Determine if this button is raised with a slightly shadow or not.
 disabled | Determine if this button is disabled or not.
 
 ## Tooltip
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/tooltip.js">View Source Code</a></em><br>
 ```javascript
 add a button with the following properties:
 its name is A_sample_button,
@@ -451,6 +481,8 @@ transparency | The transparency of this element | null | 0~100
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Writing Zone
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/textbox.js">View Source Code</a></em><br>
 ```javascript
 add a writing zone with a counter with the following properties:
 its name is A_sample_textbox,
@@ -506,6 +538,8 @@ with a counter | Adds a chars counter to the field.
 disabled | Disables this field.
 
 ## Slider
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/slider.js">View Source Code</a></em><br>
 ```javascript
 add a slider with a pin and with a digital value editor with the following properties:
 its name is A_sample_textbox,
@@ -557,6 +591,8 @@ with a pin | Adds a pin shows the current value when sliding the slider.
 disabled | Disables this slider.
 
 ## Dropdown Menu
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dropdownMenu.js">View Source Code</a></em><br>
 ```javascript
 add a dropdown menu with the following properties:
 its name is features_menu,
@@ -594,6 +630,8 @@ commands | The commands which will be executed when making a specific action on 
 <aside class="note">To know how to set commands for every specific item in the menu, please refer to the example code mentioned.</aside>
 
 ## Table
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/table.js">View Source Code</a></em><br>
 ```javascript
 add a table with the following properties:
 its name is A_sample_table,
@@ -627,6 +665,8 @@ attributes | The attributes of this element. <code>Multiple attributes are split
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Checkbox
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/checkbox.js">View Source Code</a></em><br>
 ```javascript
 add a checked checkbox with the following properties:
 its name is A_sample_table,
@@ -667,6 +707,8 @@ checked | Makes this checkbox checked by default.
 disabled | Disables the selection of this checkbox.
 
 ## Select Menu
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/selectMenu.js">View Source Code</a></em><br>
 ```javascript
 add a select menu with the following properties:
 its name is message_type,
@@ -709,6 +751,8 @@ Attribute | Description
 disabled | Disables the selection from this menu.
 
 ## Dialog Box
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/dialogBox.js">View Source Code</a></em><br>
 ```javascript
 add a dialog box with the following properties:
 its name is intro_video_container,
@@ -740,6 +784,8 @@ attributes | The attributes of this element. <code>Multiple attributes are split
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Sidebar
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/sidebar.js">View Source Code</a></em><br>
 ```javascript
 add a sidebar with the following properties:
 its name is primary_sidebar,
@@ -772,6 +818,8 @@ attributes | The attributes of this element. <code>Multiple attributes are split
 commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Loader
+
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Jste/Components/loader.js">View Source Code</a></em><br>
 ```javascript
 add a loader with the following properties:
 its name is loading_spinner,
