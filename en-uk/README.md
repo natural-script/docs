@@ -9,7 +9,7 @@ If you faced any problem while using this documentation, feel free to send us on
 # Get Started
 ```html
 <meta charset="UTF-8">
-<link rel="import" href="https://jste-manager.herokuapp.com/loader.min.js">
+<link rel="import" href="https://jste-manager.azurewebsites.net/loader.min.js">
 // All of your code will be only here
 ```
 1\. To get started, you have to be sure first that you have the following requirements:
@@ -1299,6 +1299,7 @@ When you set a value or a property to an absolute value programatically, you may
 Variable | Description
 -------- | -----------
 << the value of THE_ELEMENT_NAME >> | The value of the inserted element.
+<< the value of the variable THE_VARIABLE_NAME >> | The value of the requested variable.
 << the result of the mathematical expression: A_MATHEMATICAL_EXPRESSION >> | The result of the inserted mathematical expression.
 
 # Colours

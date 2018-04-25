@@ -1,4 +1,4 @@
-![logo](assets/img/logo.png)
+![logo](../assets/img/logo.png)
 
 # Jste v0.5 Alpha
 

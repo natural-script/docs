@@ -8,3 +8,4 @@
 [English UK](/en-uk/)
 [Egyptian](/arz/)
 [Arabic](/ar/)
+[French (Waiting For Contributors)](/ ':disabled')
