@@ -139,7 +139,6 @@ commands | The commands which will be executed when making a specific action on 
 ## Image
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image.js">View Source Code</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add an image with the following properties:
 its name is Maher_Zain_One_Cover,
@@ -183,7 +182,6 @@ commands | The commands which will be executed when making a specific action on 
 ## Video
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video.js">View Source Code</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add a video with the following properties:
 its name is big_buck_bunny_video,
@@ -260,7 +258,6 @@ autoplay | Make that audio player plays the track automatically once it has been
 ## Audio
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">View Source Code</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio-LiveVersion.js">View Live Version Source Code</a></em><br>
 ```javascript
 add an audio_player with the following properties:
 its name is Maher_Zain_One_Playlist,

@@ -138,7 +138,6 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 ## صورة
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image.js">اعرض الكود المصدرى</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 اضف صورة بالخصائص التالية:
 الاسم الخاص بها غلاف_ماهر_زين_وان,
@@ -182,7 +181,6 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 ## فيديو
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video.js">اعرض الكود المصدرى</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 اضف فيديو بالخصائص التالية:
 الاسم الخاص به فيديو_بيج_باك_بانى,
@@ -259,7 +257,6 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 ## صوت
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">اعرض الكود المصدرى</a></em><br>
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio-LiveVersion.js">اعرض الكود المصدرى للنسخة الفورية</a></em><br>
 ```javascript
 اضف مشغل صوت بالخصائص التالية:
 الاسم الخاص به قائمة_تشغيل_ماهر_زين_وان,
