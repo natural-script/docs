@@ -70,7 +70,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loginForm.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
-اضف فورم الدخول.
+اضف["فورم الدخول"]();
 ```
 نظام تسجيل دخول للموقع أو التطبيق الخاص بك مبنى و يعمل بفضل Google Firebase.
 

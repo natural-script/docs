@@ -71,7 +71,7 @@ password | Your API key for your firebase. | null | FIREBASE_API_KEY
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loginForm.js">View Source Code</a></em><br>
 ```javascript
-add.login_form();
+add["login form"]();
 ```
 A login form and users system for your app or project powered by Google Firebase.
 
