@@ -259,14 +259,14 @@ autoplay | Make that audio player plays the track automatically once it has been
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">View Source Code</a></em><br>
 ```javascript
-add an audio_player with the following properties:
+add an audio player with the following properties:
 its name is Maher_Zain_One_Playlist,
 its width is 300,
 its distance from the top is 760 pixels,
 its distance from the left is 760 pixels.
 
 add an audio with the following properties:
-its audio_player is Maher_Zain_One_Playlist,
+its audio player is Maher_Zain_One_Playlist,
 its source is https://server3.samaanetwork.net/full.albums/One(Vocals-Only)(International-Version)/09.Rabbee.Yebarik(Vocals-Only.English).mp3,
 its title is Rabbee Yebarik,
 its cover is https://anghamicoverart.akamaized.net/?id=3510779&size=320,
@@ -283,7 +283,7 @@ title | The title of the inserted audio file. | null | THE_TRACK_TITLE
 author | The author of the inserted audio file. | null | THE_AUTHOR'S_NAME
 cover | The cover art of the inserted audio file. | THE_COVER_URL
 source | The source of the inserted audio file. | null | THE_AUDIO_FILE_URL
-container | The name of the container or the page which will contain this element | null | THE_NAME_OF_YOUR_DESIRED_CONTAINER
+audio player | The name of the audio player to which this audio will be added | null | THE_NAME_OF_YOUR_DESIRED_PLAYER
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
 font colour | The colour of the text | null | <a href="#colours">See the colours section</a><a href="#colours">See the colours section</a>.
