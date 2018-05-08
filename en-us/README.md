@@ -123,7 +123,7 @@ direction | The direction of the text | The default direction of your language |
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
 text | The text you have been inserted.
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -165,7 +165,7 @@ FX | Applying the FX effect you have specified on this image. | null | rain
 container | The name of the container or the page which will contain this element | null | THE_NAME_OF_YOUR_DESIRED_CONTAINER
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -204,7 +204,7 @@ title | The title of your video which will appear in the top region of the video
 container | The name of the container or the page which will contain this element | null | THE_NAME_OF_YOUR_DESIRED_CONTAINER
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -236,7 +236,7 @@ Property | Description | Default | Value
 container | The name of the container or the page which will contain this element | null | THE_NAME_OF_YOUR_DESIRED_CONTAINER
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -286,7 +286,7 @@ source | The source of the inserted audio file. | null | THE_AUDIO_FILE_URL
 audio player | The name of the audio player to which this audio will be added | null | THE_NAME_OF_YOUR_DESIRED_PLAYER
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -320,7 +320,7 @@ name | The name you have given to this element | null | YOUR_DESIRED_NAME
 container | The name of the container or the page which will contain this element | null | THE_NAME_OF_YOUR_DESIRED_CONTAINER
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -368,7 +368,7 @@ container | The name of the container or the page which will contain this elemen
 shape | The shape mask of that element | null | triangle, trapezoid, parallelogram, rhombus, pentagon, hexagon, heptagon, octagon, decagon, circle or ellipse.
 width | The generic width of this element | null | YOUR_DESIRED_WIDTH
 length | The generic length of this element | null | YOUR_DESIRED_LENGTH
-font color | The color of the text | null | <a href="#colors">See the colors section</a><a href="#colors">See the colors section</a>.
+font color | The color of the text | null | <a href="#colors">See the colors section</a>.
 background | The background of this element. | null | <a href="#colors">See the colors section</a>
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 font style | The font style of the text in this element | null | YOUR_DESIRED_FONT_STYLE
@@ -1421,3 +1421,57 @@ This section is a reference to all the measuring units you may use during the de
 * a second / x seconds
 * an hour / x hours
 * a day / x days
+
+# Command Studio
+To make contributing to Project Jste easier and more flexible, we have designed a special tool for the contributers which is called Jste Command Studio. It gives the contributers the full oportunity to contribute to Jste with more language translations through a very simple user interface without writing any line of code. Jste Command Studio consists of two main parts: the first one is the commands builder and the second one is the dictionary builder. You can access the studio through: <a href="https://project-jste.github.io/command-studio/">https://project-jste.github.io/command-studio/</a>
+
+## Commands Builder
+Through the commands builder, anyone can contribute with more translated commands by just dragging and dropping the building blocks which can be found in the left side of the studio. Each building block of those blocks has its specific function and its specific options as it will be explained below.
+
+### Building Blocks
+
+#### Command
+The block command is the principle block of any command as it defines some information about the command like its ID, language and example and indicates the start of a new command. All the other blocks should be attached to this mother block.
+
+##### Options
+Option | Description
+------ | -----------
+Script ID | It is the ID of the script or the command that you are going to translate. If you don't know the script ID, you can check it at the section of the commands above.
+Language | The language to which you will translate the command.
+Example | An example for using your translated command
+
+#### String
+This block is used to attach a constant phrase or string to the command.
+
+##### Options
+Option | Description
+------ | -----------
+String | The string that you want to enter
+
+#### Alternatives
+This block is used in the case that you want to specifiy a set of possible strings instead of just one. This gives the programmer the opportunity to choose from various ways for writing your commands.
+
+##### Options
+Option | Description
+------ | -----------
+Optional | It makes the whole set opeional which means that the command will work properly even if the programmer didn't written this part of the command.
+
+#### Variable
+Variable block is very important as it indicates that this part of the command is an input whose value will be captured later in the runtime.
+
+##### Options
+Option | Description
+------ | -----------
+Variable Name | Any label that can express the function and the benifit of that variable
+
+#### Self Reference
+No huge difference between this block and the normal string block. The only difference that this block defines a string as a self renference to the current element like the strings "its" and "their".
+
+##### Options
+Option | Description
+------ | -----------
+Self Reference | It is a label that express the current element.
+String | The string that you want to enter.
+
+## Dictionary Builder
+Dictionary Builder is based on <a href="https://github.com/josdejong/jsoneditor">JSON Editor</a> to make it easier for every contributer to modify the JSON DB of the dictionary and submitting his/her contributions directly thorugh the browser. For accessing it, you have to go to Options > Jste Dictionary
