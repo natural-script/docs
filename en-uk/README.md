@@ -9,7 +9,7 @@ If you faced any problem while using this documentation, feel free to send us on
 # Get Started
 ```html
 <meta charset="UTF-8">
-<link rel="import" href="https://jste-manager.azurewebsites.net/loader.min.js">
+<script src="https://jste-manager.herokuapp.com/loader.min.js"></script>
 // All of your code will be only here
 ```
 1\. To get started, you have to be sure first that you have the following requirements:

@@ -9,7 +9,7 @@
 # ابدأ
 ```html
 <meta charset="UTF-8">
-<link rel="import" href="https://jste-manager.azurewebsites.net/loader.min.js">
+<script src="https://jste-manager.herokuapp.com/loader.min.js"></script>
 // كل اﻷكواد اللى انت هتكتبها هتكون هنا
 ```
 1\. عشان تبدأ, لازم الأول تكون متأكد انه عندك المتطلبات دى:
