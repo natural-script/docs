@@ -28,9 +28,9 @@ If you faced any problem while using this documentation, feel free to send us on
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/setup.js">View Source Code</a></em><br>
 ```javascript
 configure this site with the following properties:
-its title is Jste Demo,
-its logo is https://preview.ibb.co/c4Knwv/STEM_Alex_Logo.jpg,
-its default window resolution is 1366 × 644 in the case of the landscape mode and 412 × 732 in the case of the portrait mode.
+	* its title is Jste Demo
+	* its logo is https://preview.ibb.co/c4Knwv/STEM_Alex_Logo.jpg
+	* its default window resolution is 1366 × 644 in the case of the landscape mode and 412 × 732 in the case of the portrait mode
 ```
 Setting up the site or the app.
 
@@ -50,13 +50,13 @@ Attribute | Description
 --------- | -----------
 remote scrolling | Make the user be able to scroll remotly using the camera through the hand geasture <code>Requires the approval camera acsess</code>.
 
-## Firebase Center
+## Firebase center
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/firebaseCenter.js">View Source Code</a></em><br>
 ```javascript
 add a firebase center with the following properties:
-its username is jste-9584c,
-its password is AIzaSyDMGk_SFlEto93zfGHUbVLwxYiSq00aknk.
+	* its username is jste-9584c
+	* its password is AIzaSyDMGk_SFlEto93zfGHUbVLwxYiSq00aknk
 ```
 Google Firebase services initialization.
 
@@ -82,7 +82,7 @@ A login form and users system for your app or project powered by Google Firebase
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/page.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
-its name is A_sample_page.
+	* its name is A_sample_page
 ```
 Initailizing a page as a container.
 
@@ -99,17 +99,16 @@ name | The name you have given to this page. | null | THE_NAME
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/text.js">View Source Code</a></em><br>
 ```javascript
 add a text with the following properties:
-its name is A_sample_text,
-its text is This is a sample text,
-its color is white,
-its background is black,
-its font size is 50 pixels,
-its font thickness is thick,
-its animation is bouncing,
-its transparency is 50,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels,
-its When it has been clicked, remove it.
+	* its name is A_sample_text
+	* its text is This is a sample text
+	* its color is white
+	* its background is black
+	* its font size is 50 pixels
+	* its font thickness is thick
+	* its animation is bouncing
+	* its transparency is 50
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Any texts including headings, titles and paragraphs.
 
@@ -134,23 +133,21 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Image
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image.js">View Source Code</a></em><br>
 ```javascript
 add an image with the following properties:
-its name is Maher_Zain_One_Cover,
-its title is Maher Zain One Cover,
-its FX is rain,
-its source is https://i.ytimg.com/vi/gnZjSui_Mc4/maxresdefault.jpg,
-its width is 980 pixels,
-its length is 500 pixels,
-its animation is bounce,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels,
-its When it has been clicked, remove it.
+	* its name is Maher_Zain_One_Cover
+	* its title is Maher Zain One Cover
+	* its FX is rain
+	* its source is https://i.ytimg.com/vi/gnZjSui_Mc4/maxresdefault.jpg
+	* its width is 980 pixels
+	* its length is 500 pixels
+	* its animation is bounce
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Any images including the transparent logos and icons.
 
@@ -176,7 +173,6 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 
 ## Video
@@ -184,14 +180,14 @@ commands | The commands which will be executed when making a specific action on 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video.js">View Source Code</a></em><br>
 ```javascript
 add a video with the following properties:
-its name is big_buck_bunny_video,
-its title is Big Buck Bunny,
-its source is https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4,
-its width is 980,
-its length is 500,
-its animation is bounce,
-its distance from the top is 100 pixels,
-its distance from the left is 50 pixels.
+	* its name is big_buck_bunny_video
+	* its title is Big Buck Bunny
+	* its source is https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
+	* its width is 980
+	* its length is 500
+	* its animation is bounce
+	* its distance from the top is 100 pixels
+	* its distance from the left is 50 pixels
 ```
 Any videos including those are hosted on Youtube and Vimeo.
 
@@ -215,17 +211,16 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Audio Player
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audioPlayer.js">View Source Code</a></em><br>
 ```javascript
 add an audio player with the following properties:
-its name is Maher_Zain_One_Playlist,
-its width is 300,
-its distance from the top is 760 pixels,
-its distance from the left is 760 pixels.
+	* its name is Maher_Zain_One_Playlist
+	* its width is 300
+	* its distance from the top is 760 pixels
+	* its distance from the left is 760 pixels
 ```
 An audio player which supports playlist and lyrics.
 
@@ -247,7 +242,6 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -260,17 +254,17 @@ autoplay | Make that audio player plays the track automatically once it has been
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">View Source Code</a></em><br>
 ```javascript
 add an audio player with the following properties:
-its name is Maher_Zain_One_Playlist,
-its width is 300,
-its distance from the top is 760 pixels,
-its distance from the left is 760 pixels.
+	* its name is Maher_Zain_One_Playlist
+	* its width is 300
+	* its distance from the top is 760 pixels
+	* its distance from the left is 760 pixels
 
 add an audio with the following properties:
-its audio player is Maher_Zain_One_Playlist,
-its source is https://server3.samaanetwork.net/full.albums/One(Vocals-Only)(International-Version)/09.Rabbee.Yebarik(Vocals-Only.English).mp3,
-its title is Rabbee Yebarik,
-its cover is https://anghamicoverart.akamaized.net/?id=3510779&size=320,
-its author is Maher Zain.
+	* its audio player is Maher_Zain_One_Playlist
+	* its source is https://server3.samaanetwork.net/full.albums/One(Vocals-Only)(International-Version)/09.Rabbee.Yebarik(Vocals-Only.English).mp3
+	* its title is Rabbee Yebarik
+	* its cover is https://anghamicoverart.akamaized.net/?id=3510779&size=320
+	* its author is Maher Zain
 ```
 An audio item for the audio player component.
 
@@ -297,18 +291,17 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Slideshow
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slideshow.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
-its name is test.
+	* its name is test
 
 add a slideshow with the following properties:
-its name is A_sample_slideshow,
-its container is test.
+	* its name is A_sample_slideshow
+	* its container is test
 ```
 A responsive carousel which supports images and videos including Youtube and Vimeo streamed videos.
 
@@ -331,7 +324,6 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -344,18 +336,18 @@ autoplay | Make that carousel play automatically once it has been loaded.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/container.js">View Source Code</a></em><br>
 ```javascript
 add a page with the following properties:
-its name is welcome.
+	* its name is welcome
 
 add a container with the following properties:
-its name is shape1,
-its shape is triangle,
-its container is welcome,
-its width is 50 pixels,
-its length is 50 pixels,
-its animation is fadeInLeft,
-its distance from the top is 45%,
-its distance from the left is 10%,
-its background is red.
+	* its name is shape1
+	* its shape is triangle
+	* its container is welcome
+	* its width is 50 pixels
+	* its length is 50 pixels
+	* its animation is fadeInLeft
+	* its distance from the top is 45%
+	* its distance from the left is 10%
+	* its background is red
 ```
 A responsive carousel which supports images and videos including Youtube and Vimeo streamed videos.
 
@@ -379,7 +371,6 @@ distance from the top | The distance between the top edge of the container conta
 distance from the bottom | The distance between the bottom edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -392,17 +383,16 @@ grid | set all the children to be appeared as a responsive row.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/button.js">View Source Code</a></em><br>
 ```javascript
 add a raised and switched button with the following properties:
-its name is A_sample_button,
-its text is This is a sample button,
-its width is 200 pixels,
-its length is 100 pixels,
-its font color is red,
-its font thickness is thick,
-its animation is bouncing,
-its transparency is 50,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels,
-its When it has been clicked, remove it.
+	* its name is A_sample_button
+	* its text is This is a sample button
+	* its width is 200 pixels
+	* its length is 100 pixels
+	* its font color is red
+	* its font thickness is thick
+	* its animation is bouncing
+	* its transparency is 50
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Buttons with various styles and customizations for your app or site.
 
@@ -427,7 +417,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -442,19 +431,17 @@ disabled | Determine if this button is disabled or not.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/tooltip.js">View Source Code</a></em><br>
 ```javascript
 add a button with the following properties:
-its name is A_sample_button,
-its text is This is a sample button,
-its animation is bouncing,
-its When it has been clicked, remove it.
+	* its name is A_sample_button
+	* its text is This is a sample button
+	* its animation is bouncing
 
 add a tooltip with the following properties:
-its name is A_sample_tooltip,
-its text is This is a sample tooltip,
-its font color is white,
-its emitter is A_sample_button,
-its direction is from_the_bottom,
-its transparency is 50,
-its When it has been clicked, remove it.
+	* its name is A_sample_tooltip
+	* its text is This is a sample tooltip
+	* its font color is white
+	* its emitter is A_sample_button
+	* its direction is from_the_bottom
+	* its transparency is 50
 ```
 Tooltip to make it easier for you to add a description for any of your elements.
 
@@ -475,26 +462,24 @@ background | The background of this element. | null | <a href="#colors">See the 
 font size | The size of the text in this element. | null | YOUR_DESIRED_FONT_SIZE
 animation | The animation of this element on loading it | null | <a href="#animations">See the animations section</a>
 transparency | The transparency of this element | null | 0~100
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Writing Zone
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/textbox.js">View Source Code</a></em><br>
 ```javascript
 add a writing zone with a counter with the following properties:
-its name is A_sample_textbox,
-its title is Enter some numbers here,
-its maximum is 10,
-its requirement is [a-zA-Z],
-its width is 200 pixels,
-its length is 100 pixels,
-its font color is red,
-its font thickness is thick,
-its animation is bouncing,
-its transparency is 50,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels,
-its When it has been clicked, remove it.
+	* its name is A_sample_textbox
+	* its title is Enter some numbers here
+	* its maximum is 10
+	* its requirement is [a-zA-Z]
+	* its width is 200 pixels
+	* its length is 100 pixels
+	* its font color is red
+	* its font thickness is thick
+	* its animation is bouncing
+	* its transparency is 50
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Textboxes including date & time pickers.
 
@@ -525,7 +510,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -539,18 +523,17 @@ disabled | Disables this field.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slider.js">View Source Code</a></em><br>
 ```javascript
 add a slider with a pin and with a digital value editor with the following properties:
-its name is A_sample_textbox,
-its maximum is 100,
-its step is 20,
-its width is 200 pixels,
-its length is 100 pixels,
-its font color is red,
-its font thickness is thick,
-its animation is bouncing,
-its transparency is 50,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels,
-its When it has been clicked, remove it.
+	* its name is A_sample_textbox
+	* its maximum is 100
+	* its step is 20
+	* its width is 200 pixels
+	* its length is 100 pixels
+	* its font color is red
+	* its font thickness is thick
+	* its animation is bouncing
+	* its transparency is 50
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Sliders with many customizations useful for various purposes.
 
@@ -577,7 +560,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -592,11 +574,9 @@ disabled | Disables this slider.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dropdownMenu.js">View Source Code</a></em><br>
 ```javascript
 add a dropdown menu with the following properties:
-its name is features_menu,
-its items are Prepared Labs &&& Delicious Meals,
-its emitter is features_link,
-the commands of the item Prepared Labs are that When it has been clicked, go to the page features &&& When it has been clicked, go to the element feature1,
-the commands of the item Delicious Meals are that When it has been clicked, go to the page features &&& When it has been clicked, go to the element feature2.
+	* its name is features_menu
+	* its items are Prepared Labs &&& Delicious Meals
+	* its emitter is features_link
 ```
 Dropdown menus useful for for the navigation bars.
 
@@ -622,7 +602,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 <aside class="note">To know how to set commands for every specific item in the menu, please refer to the example code mentioned.</aside>
 
@@ -631,10 +610,10 @@ commands | The commands which will be executed when making a specific action on 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/table.js">View Source Code</a></em><br>
 ```javascript
 add a table with the following properties:
-its name is A_sample_table,
-its data is Lucy in the cell Name &&& 18 years old in the cell Age &&&& Frank in the cell Name &&& 20 years old in the cell Age,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels.
+	* its name is A_sample_table
+	* its data is Lucy in the cell Name &&& 18 years old in the cell Age &&&& Frank in the cell Name &&& 20 years old in the cell Age
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Tables for many purposes like time tables.
 
@@ -659,16 +638,15 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Checkbox
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/checkbox.js">View Source Code</a></em><br>
 ```javascript
 add a checked checkbox with the following properties:
-its name is A_sample_table,
-its distance from the top is 50 pixels,
-its distance from the right is 100 pixels.
+	* its name is A_sample_table
+	* its distance from the top is 50 pixels
+	* its distance from the right is 100 pixels
 ```
 Checkboxes to let the user select specific options.
 
@@ -694,7 +672,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -708,13 +685,13 @@ disabled | Disables the selection of this checkbox.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/selectMenu.js">View Source Code</a></em><br>
 ```javascript
 add a select menu with the following properties:
-its name is message_type,
-its title is Message Type,
-its items are complaint &&& enquiry,
-its container is contact_page_container,
-its width is 800 pixels in the case of the landscape mode and 320 pixels in the case of the portrait mode,
-its distance from the left is 40 pixels in the case of the landscape mode and 30 pixels in the case of the portrait mode,
-its distance from the top is 60 pixels in the case of the landscape mode and 60 pixels in the case of the portrait mode.
+	* its name is message_type
+	* its title is Message Type
+	* its items are complaint &&& enquiry
+	* its container is contact_page_container
+	* its width is 800 pixels in the case of the landscape mode and 320 pixels in the case of the portrait mode
+	* its distance from the left is 40 pixels in the case of the landscape mode and 30 pixels in the case of the portrait mode
+	* its distance from the top is 60 pixels in the case of the landscape mode and 60 pixels in the case of the portrait mode
 ```
 Select menus to let the user choose an option from several options which you specified for him/her.
 
@@ -739,7 +716,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ### Attributes {docsify-ignore}
 
@@ -752,9 +728,9 @@ disabled | Disables the selection from this menu.
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dialogBox.js">View Source Code</a></em><br>
 ```javascript
 add a dialog box with the following properties:
-its name is intro_video_container,
-its width is 800 pixels in the case of the landscape mode and 300 pixels in the case of the portrait mode,
-its commands are When it becomes out of the viewport, pause intro_video_about_stem.
+	* its name is intro_video_container
+	* its width is 800 pixels in the case of the landscape mode and 300 pixels in the case of the portrait mode
+	* its commands are When it becomes out of the viewport, pause intro_video_about_stem
 ```
 Modal windows and popups.
 
@@ -778,17 +754,16 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Sidebar
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/sidebar.js">View Source Code</a></em><br>
 ```javascript
 add a sidebar with the following properties:
-its name is primary_sidebar,
-its distance from the top is 275 pixels,
-its background is #69F0AE,
-its length is 400 pixels.
+	* its name is primary_sidebar
+	* its distance from the top is 275 pixels
+	* its background is #69F0AE
+	* its length is 400 pixels
 ```
 Sidebars useful for mobile side navigation menus.
 
@@ -812,17 +787,16 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 ## Loader
 
 <em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loader.js">View Source Code</a></em><br>
 ```javascript
 add a loader with the following properties:
-its name is loading_spinner,
-its distance from the top is 275 pixels,
-its length is 400 pixels,
-its width is 400 pixels.
+	* its name is loading_spinner
+	* its distance from the top is 275 pixels
+	* its length is 400 pixels
+	* its width is 400 pixels
 ```
 Stylish loaders to show that something is in the loading state.
 
@@ -847,7 +821,6 @@ distance from the bottom | The distance between the bottom edge of the container
 distance from the left | The distance between the left edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 distance from the right | The distance between the right edge of the container contains this element and this element | null | YOUR_DESIRED_DISTANCE
 attributes | The attributes of this element. <code>Multiple attributes are splitted by '&&&'</code>.
-commands | The commands which will be executed when making a specific action on this element | null | <a href="#commands">See commands section</a>
 
 <aside class="note">Bar loaders requires a value which can be set dynamically using the commands.</aside>
 
@@ -915,25 +888,25 @@ Most of the events in Jste English edition are started with the word <code> When
 
 Event | Description
 ----- | -----------
-When it has been clicked, | It is fired when someone clicks the element.
-When the mouse pointer has been moved over it, | It is fired when someone moves the mouse pointer over the element.
-When the mouse pointer has been moved away from it, | It is fired if someone was moving the mouse pointer over the element and then moved it away from it.
-When the mouse pointer is being moved out of it, | It is fired when the mouse pointer is in the state of moving outside the element zone.
-When the mouse pointer is being moved over it, | It is fired when the mouse pointer is in the state of moving over the element zone.
-When it is no longer clicked, | It is fired if someone was clicking the element and then relased the mouse button up.
-When it has been double clicked, | It is fired when someone double clicked the element.
-When it has been right clicked, | It is fired when someone right clicked the element.
-When a key has been pressed while focusing it, | It is fired when someone pressed a keyboard key while focusing the element <code>Mostly used for textboxes</code>.
-When a key is being pressed while focusing it, | It is fired when someone is pressing a keyboard key while focusing the element <code>Mostly used for textboxes</code>.
-When its contents have been modified, | It is fired when the value of the element has been changed <code>e.g. The text in the textbox</code>.
-When it has been focused, | It is fired when the element is focused <code>Mostly used for textboxes</code>.
-When it is being focused, | It is fired when the element is being focused <code>Mostly used for textboxes</code>.
-When it is no longer focused, | It is fired when the element is no longer focused <code>Mostly used for textboxes</code>.
-When the data of this form has been sent, | It is fired when the data of the element has been sent <code>Can be used only for forms</code>.
-When it has been scrolled, | It is fired if someone scrolled this element in any direction.
-When the user said: A_HOT_WORD, | It is fired if someone said the special hot word mentioned <code>Requires the approval microphone acsess</code>.
-When it becomes in the viewport, | It is fired if the element entered the viewport.
-When it becomes out of the viewport, | It is fired if the element escaped from the viewport.
+When the element THE_ELEMENT_NAME has been clicked, | It is fired when someone clicks the element.
+When the mouse pointer has been moved over the element THE_ELEMENT_NAME, | It is fired when someone moves the mouse pointer over the element.
+When the mouse pointer has been moved away from the element THE_ELEMENT_NAME, | It is fired if someone was moving the mouse pointer over the element and then moved it away from it.
+When the mouse pointer is being moved out of the element THE_ELEMENT_NAME, | It is fired when the mouse pointer is in the state of moving outside the element zone.
+When the mouse pointer is being moved over the element THE_ELEMENT_NAME, | It is fired when the mouse pointer is in the state of moving over the element zone.
+When the element THE_ELEMENT_NAME is no longer clicked, | It is fired if someone was clicking the element and then relased the mouse button up.
+When the element THE_ELEMENT_NAME has been double clicked, | It is fired when someone double clicked the element.
+When the element THE_ELEMENT_NAME has been right clicked, | It is fired when someone right clicked the element.
+When a key has been pressed while focusing the element THE_ELEMENT_NAME, | It is fired when someone pressed a keyboard key while focusing the element <code>Mostly used for textboxes</code>.
+When a key is being pressed while focusing the element THE_ELEMENT_NAME, | It is fired when someone is pressing a keyboard key while focusing the element <code>Mostly used for textboxes</code>.
+When the contents of the element THE_ELEMENT_NAME have been modified, | It is fired when the value of the element has been changed <code>e.g. The text in the textbox</code>.
+When the element THE_ELEMENT_NAME has been focused, | It is fired when the element is focused <code>Mostly used for textboxes</code>.
+When the element THE_ELEMENT_NAME is being focused, | It is fired when the element is being focused <code>Mostly used for textboxes</code>.
+When the element THE_ELEMENT_NAME is no longer focused, | It is fired when the element is no longer focused <code>Mostly used for textboxes</code>.
+When the data of the form THE_ELEMENT_NAME has been sent, | It is fired when the data of the element has been sent <code>Can be used only for forms</code>.
+When the element THE_ELEMENT_NAME has been scrolled, | It is fired if someone scrolled this element in any direction.
+When the user said: THE_ELEMENT_NAME, | It is fired if someone said the special hot word mentioned <code>Requires the approval microphone acsess</code>.
+When the element THE_ELEMENT_NAME becomes in the viewport, | It is fired if the element entered the viewport.
+When the element THE_ELEMENT_NAME becomes out of the viewport, | It is fired if the element escaped from the viewport.
 
 ## Conditional Statements
 
@@ -941,19 +914,23 @@ While developing your app or website using Jste Framework, you may want to speci
 
 ### Mathematical Comparisons
 ```javascript
-When it has been clicked, remove it in the case that the value of angle_field is greater than the result_field
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked,
+	In the case that the value of angle_field is greater than the value result_field,
+		* remove it
 ```
 
 Operator | Equivalent
 -------- | ----------
-is | ==
-isn't | !=
+equals | ==
+doesn't equal | !=
 is greater than | >
 is smaller than | <
 
 ### Absolute Conditions
 ```javascript
-When it has been clicked, remove it in the case that the device is a phone
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	In the case that the device is a phone,
+		* remove it
 ```
 
 Condition | Description
@@ -973,14 +950,16 @@ In many cases, you don't want to execute the commands once the event has been fi
 
 ### Setting the command timeout {docsify-ignore}
 ```javascript
-When it has been clicked, remove it after a period of 2 hours
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* remove it after a period of 2 hours
 ```
 
 To determine the time after which the command will be executed you have to write <code>after a period of THE_PERIOD_HERE</code> after the whole command as in the example.
 
 ### Setting the command time interval {docsify-ignore}
 ```javascript
-When it has been clicked, remove it every a period of 2 hours
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* remove it every a period of 2 hours
 ```
 
 To determine the time every which the command will be executed you have to write <code>every a period of THE_PERIOD_HERE</code> after the whole command as in the example.
@@ -994,13 +973,15 @@ You can remove any element or component programmatically while the running of yo
 
 ### Removing the same element on which the event has been applied
 ```javascript
-When it has been clicked, remove it
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* remove it
 ```
 You can remove the same element on which the event has been applied through the command <code>remove it</code> as in the example.
 
 ### Removing another element rather than the one on which the event has been applied
 ```javascript
-When it has been clicked, remove THE_ELEMENT_NAME
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* remove THE_ELEMENT_NAME
 ```
 You can remove another element rather than the one on which the event has been applied by mentioning it by its name through the command <code>remove THE_ELEMENT_NAME</code> as in the example.
 
@@ -1014,7 +995,8 @@ You can add six hyperlinks types as in the following:
 
 ### URL
 ```javascript
-When it has been clicked, go to the url https://www.google.com.eg/
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the url https://www.google.com.eg/
 ```
 
 You can add a hyperlink to any URL through the code <code>go to the url THE_DESIRED_URL</code> as in the example.
@@ -1022,7 +1004,8 @@ You can add a hyperlink to any URL through the code <code>go to the url THE_DESI
 ### Email
 
 ```javascript
-When it has been clicked, go to the email project-jste@outlook.com
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the email project-jste@outlook.com
 ```
 
 You can add a hyperlink to any Email through the code <code>go to the email THE_DESIRED_EMAIL</code> as in the example.
@@ -1030,7 +1013,8 @@ You can add a hyperlink to any Email through the code <code>go to the email THE_
 ### Page
 
 ```javascript
-When it has been clicked, go to the page welcome_page
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the page welcome_page
 ```
 
 You can add a hyperlink to any page in your site or app through the code <code>go to the page THE_DESIRED_PAGE_NAME</code> as in the example.
@@ -1038,7 +1022,8 @@ You can add a hyperlink to any page in your site or app through the code <code>g
 ### Element
 
 ```javascript
-When it has been clicked, go to the element post_container
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the element post_container
 ```
 
 You can add a hyperlink to any element or component exists in your page through the code <code>go to the element THE_DESIRED_ELEMENT_NAME</code> as in the example.
@@ -1046,7 +1031,8 @@ You can add a hyperlink to any element or component exists in your page through 
 ### Dialog Box
 
 ```javascript
-When it has been clicked, open the dialog box learn_more
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* open the dialog box learn_more
 ```
 
 You can add a hyperlink to any dialog box exists in your page through the code <code>open the dialog box THE_DESIRED_DIALOG_BOX_NAME</code> as in the example.
@@ -1054,7 +1040,8 @@ You can add a hyperlink to any dialog box exists in your page through the code <
 ### Sidebar
 
 ```javascript
-When it has been clicked, open the sidebar side_nav
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* open the sidebar side_nav
 ```
 
 You can add a hyperlink to any sidebar exists in your page through the code <code>open the dialog box THE_DESIRED_SIDEBAR_NAME</code> as in the example.
@@ -1067,7 +1054,8 @@ You can control the media players programmatically and apply many commands on th
 
 <em>Script ID: S3</em><br>
 ```javascript
-When it has been clicked, play THE_ELEMENT_NAME
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* play THE_ELEMENT_NAME
 ```
 You can play any video or audio on firing an event on any element you want by its name through the command <code>play THE_ELEMENT_NAME</code> as in the example.
 
@@ -1075,7 +1063,8 @@ You can play any video or audio on firing an event on any element you want by it
 
 <em>Script ID: S4</em><br>
 ```javascript
-When it has been clicked, pasue THE_ELEMENT_NAME
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* pasue THE_ELEMENT_NAME
 ```
 You can pause any video or audio on firing an event on any element you want by its name through the command <code>pause THE_ELEMENT_NAME</code> as in the example.
 
@@ -1083,7 +1072,8 @@ You can pause any video or audio on firing an event on any element you want by i
 
 <em>Script ID: S5</em><br>
 ```javascript
-When it has been clicked, set the time position of THE_ELEMENT_NAME to 5
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set the time position of THE_ELEMENT_NAME to 5
 ```
 You can set the current time position of any video or audio to any value in seconds by its name through the command <code>set the time position of THE_ELEMENT_NAME to THE_VALUE</code> as in the example.
 
@@ -1093,7 +1083,8 @@ You can set the current time position of any video or audio to any value in seco
 
 <em>Script ID: S5</em><br>
 ```javascript
-When it has been clicked, set the time position of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set the time position of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME
 ```
 You can set the current time position of any video or audio to a value requested from another element by its name through the command <code>set the time position of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME</code> as in the example.
 
@@ -1104,7 +1095,8 @@ You can change the value of any element or component you want programmatically d
 
 ### Setting the value of the current element to an absolute value
 ```javascript
-When it has been clicked, set its value to Hello World !
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set its value to Hello World !
 ```
 
 You can change the value of the element on which the event has been fired to an absolute value through the command <code>set the value of THE_ELEMENT_NAME to THE_ABSOLUTE_VALUE</code> as in the example.
@@ -1113,14 +1105,16 @@ You can change the value of the element on which the event has been fired to an 
 
 ### Setting the value of the current element to the value of another element
 ```javascript
-When it has been clicked, set its value to the value of THE_RESOURCE_ELEMENT_NAME
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set its value to the value of THE_RESOURCE_ELEMENT_NAME
 ```
 
 You can change the value of the element on which the event has been fired to the value of another element through the command <code>set the value of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME</code> as in the example.
 
 ### Setting the value of any element to an absolute value
 ```javascript
-When it has been clicked, set the value of THE_ELEMENT_NAME to Hello World !
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set the value of THE_ELEMENT_NAME to Hello World !
 ```
 
 You can change the value of any element to an absolute value through the command <code>set the value of THE_ELEMENT_NAME to THE_ABSOLUTE_VALUE</code> as in the example.
@@ -1130,7 +1124,8 @@ You can change the value of any element to an absolute value through the command
 
 ### Setting the value of any element to the value of another element
 ```javascript
-When it has been clicked, set the value of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set the value of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME
 ```
 
 You can change the value of any element to the value of another element through the command <code>set the value of THE_ELEMENT_NAME to the value of THE_RESOURCE_ELEMENT_NAME</code> as in the example.
@@ -1139,10 +1134,12 @@ You can change the value of any element to the value of another element through 
 
 <em>Script ID: S17~S20 ( Varies according to the property )</em><br>
 ```javascript
-When it has been clicked, set the width of THE_ELEMENT_NAME to 30 pixels
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set the width of THE_ELEMENT_NAME to 30 pixels
 ```
 ```javascript
-When it has been clicked, set its background to a random dark color
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* set its background to a random dark color
 ```
 
 You can change various properties of any element or component you want programmatically during the runtime of you site or app, and these properties are:
@@ -1156,7 +1153,7 @@ and you can set them easily by replacing the word value in the example code in t
 
 ## Databases Managament
 
-<aside class="note">To use the databases management features you have to provide your firebase app information. <b>For more information: <a href="#firebase-center">See the Firebase Center component section.</a></b></aside>.
+<aside class="note">To use the databases management features you have to provide your firebase app information. <b>For more information: <a href="#firebase-center">See the Firebase center component section.</a></b></aside>.
 
 Jste Framework offers various commands to manage you Google Firebase Database without any experiences as in the following:
 
@@ -1167,13 +1164,26 @@ You can insert any data based on the values of the other elements in your Fireba
 
 #### Inserting Data To The Public Database
 ```javascript
-When it has been clicked, go to the public database egypt the branch citizines and then insert the following data: the value of name_input in the slot name, the value of address_input in the slot address
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	In the case that the value of message_type equals enquiry,
+		* go to the public database messages the branch enquiries and then insert the following data:
+			* name: << the value of the element name_field >>
+			* email: << the value of the element email_field >>
+			* enquiry: << the value of the element the_message >>
+	Else in the case that the value of message_type equals complaint,
+		* go to the public database messages the branch complaints and then insert the following data:
+			* name: << the value of the element name_field >>
+			* email: << the value of the element email_field >>
+			* complaint: << the value of the element the_message >>
 ```
 To insert data in the public database, you have to use the command <code>go to the public database THE_DATABASE_NAME the branch THE_BRANCH_NAME and then insert the following data: the value of THE_RESOURCE_ELEMENT in the slot THE_NAME_OF_THE_SLOT_IN_WHICH_THE_DATA_WILL_BE_STORED</code> splitting each data with <code>, </code> as in the example.
 
 #### Inserting Data To The User's Private Database
 ```javascript
-When it has been clicked, go to the private database hobbies the branch sports and then insert the following data: the value of sport1_input in the slot sport1, the value of sport2_input in the slot sport2
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the private database hobbies the branch sports and then insert the following data:
+		* sport1: << the value of the element sport1_input >>
+		* sport2: << the value of the element sport2_input >>
 ```
 
 To insert data in the user's private database, you have to use the command <code>go to the private database THE_DATABASE_NAME the branch THE_BRANCH_NAME and then insert the following data: the value of THE_RESOURCE_ELEMENT in the slot THE_NAME_OF_THE_SLOT_IN_WHICH_THE_DATA_WILL_BE_STORED</code> splitting each data with <code>, </code> as in the example.
@@ -1187,14 +1197,16 @@ After inserting data in your Google Firebase database, you may want to request t
 
 #### Requesting Data From The Public Database
 ```javascript
-When it has been clicked, go to the public database egypt the branch citizines and then get the value of the slot address which has the same class of the value of name_input in the slot name and set it as the value of the_citizin_address
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the public database egypt the branch citizines and then get the value of the slot address which has the same class of the value of name_input in the slot name and set it as the value of the_citizin_address
 ```
 
 To request data from the public database, you have to use the command <code>go to the public database THE_DATABASE_NAME the branch THE_BRANCH_NAME and then get the value of the slot THE_RESOURCE_SLOT which has the same class of the value of THE_ELEMENT_WHICH_ITS_VALUE_IS_THE_COMPARING_SLOT in the slot THE_COMPARING_SLOT and set it as the value of THE_ELEMENT_WHICH_ITS_VALUE_WILL_BE_CHANGED</code>.
 
 #### Requesting Data From The User's Private Database
 ```javascript
-When it has been clicked, go to the private database hobbies the branch sports and then get the value of the slot sport2 which has the same class of the value of sport1_input in the slot sport1 and set it as the value of sport2
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* go to the private database hobbies the branch sports and then get the value of the slot sport2 which has the same class of the value of sport1_input in the slot sport1 and set it as the value of sport2
 ```
 
 To request data from the user's private database, you have to use the command <code>go to the private database THE_DATABASE_NAME the branch THE_BRANCH_NAME and then get the value of the slot THE_RESOURCE_SLOT which has the same class of the value of THE_ELEMENT_WHICH_ITS_VALUE_IS_THE_COMPARING_SLOT in the slot THE_COMPARING_SLOT and set it as the value of THE_ELEMENT_WHICH_ITS_VALUE_WILL_BE_CHANGED</code>.
@@ -1209,7 +1221,8 @@ You can control the flashlight of the Android or the IOS device if your app is r
 
 <em>Script ID: S7</em><br>
 ```javascript
-When it has been clicked, toggle the flashlight
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* toggle the flashlight
 ```
 
 You can toggle the flashlight programatically by using the command: toggle the flashlight
@@ -1218,7 +1231,8 @@ You can toggle the flashlight programatically by using the command: toggle the f
 
 <em>Script ID: S8</em><br>
 ```javascript
-When it has been clicked, turn on the flashlight
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* turn on the flashlight
 ```
 
 You can turn on the flashlight programatically using the command: turn on the flashlight
@@ -1227,7 +1241,8 @@ You can turn on the flashlight programatically using the command: turn on the fl
 
 <em>Script ID: S9</em><br>
 ```javascript
-When it has been clicked, turn off the flashlight
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* turn off the flashlight
 ```
 
 You can turn off the flashlight programatically using the command: turn off the flashlight
@@ -1240,7 +1255,8 @@ You can control the bluetooth of the Android device if your app is running insid
 
 <em>Script ID: S12</em><br>
 ```javascript
-When it has been clicked, turn on the bluetooth
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* turn on the bluetooth
 ```
 
 You can turn on the bluetooth programatically using the command: turn on the bluetooth
@@ -1253,7 +1269,8 @@ You can control the WIFI of the Android device if your app is running inside the
 
 <em>Script ID: S10</em><br>
 ```javascript
-When it has been clicked, turn on the WIFI
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* turn on the WIFI
 ```
 
 You can turn on the WIFI programatically using the command: turn on the WIFI
@@ -1262,7 +1279,8 @@ You can turn on the WIFI programatically using the command: turn on the WIFI
 
 <em>Script ID: S11</em><br>
 ```javascript
-When it has been clicked, turn off the WIFI
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* turn off the WIFI
 ```
 
 You can turn off the WIFI programatically using the command: turn off the WIFI
@@ -1275,7 +1293,8 @@ You can control the on-scrren keyboard of the Android device if your app is runn
 
 <em>Script ID: S13</em><br>
 ```javascript
-When it has been clicked, show the keyboard
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	* show the keyboard
 ```
 
 You can show the on-screen keyboard programatically using the command: show the keyboard
@@ -1284,22 +1303,13 @@ You can show the on-screen keyboard programatically using the command: show the 
 
 <em>Script ID: S14</em><br>
 ```javascript
-When it has been clicked, hide the keyboard
+When the element THE_NAME_OF_THE_ELEMENT_ON_WHICH_THE_EVENT_IS_FIRED has been clicked, 
+	hide the keyboard
 ```
 
 You can hide the on-screen keyboard programatically using the command: hide the keyboard
 
-# Absolute Values
-
-When you set a value or a property to an absolute value programatically, you may include some variables in that value besides the static text as in the following:
-
-Variable | Description
--------- | -----------
-<< the value of THE_ELEMENT_NAME >> | The value of the inserted element.
-<< the value of the variable THE_VARIABLE_NAME >> | The value of the requested variable.
-<< the result of the mathematical expression: A_MATHEMATICAL_EXPRESSION >> | The result of the inserted mathematical expression.
-
-# Colors
+# colors
 
 This section is a reference to all the colors you may use during the developing of you site or app:
 
