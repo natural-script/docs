@@ -24,7 +24,7 @@
 # المكونات
 ## التهيئة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/setup.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/setup.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 هيئ هذا الموقع بالخصائص التالية:
 	* العنوان الخاص به استعراض جستى
@@ -51,7 +51,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## مركز البيانات
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/firebaseCenter.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/firebaseCenter.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف مركز البيانات بالخصائص التالية:
 	* اسم المستخدم الخاص به jste-9584c
@@ -68,7 +68,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## فورم الدخول
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loginForm.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/loginForm.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 * ضيف فورم الدخول
 ```
@@ -78,7 +78,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## صفحة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/page.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/page.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف صفحة بالخصائص التالية:
 	* الاسم الخاص بها عينة_صفحة
@@ -95,7 +95,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## نص
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/text.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/text.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف نص بالخصائص التالية:
 	* الاسم الخاص به عينة_كلام
@@ -135,7 +135,7 @@ remote scrolling | Make the user be able إلى scroll remotly using the camera 
 
 ## صورة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/image.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/image.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف صورة بالخصائص التالية:
 	* الاسم الخاص بها غلاف_ماهر_زين_وان
@@ -176,7 +176,7 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 
 ## فيديو
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/video.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/video.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف فيديو بالخصائص التالية:
 	* الاسم الخاص به فيديو_بيج_باك_بانى
@@ -213,7 +213,7 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 
 ## مشغل صوت
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audioPlayer.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/audioPlayer.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف مشغل صوت بالخصائص التالية:
 	* الاسم الخاص به قائمة_تشغيل_ماهر_زين_وان
@@ -250,7 +250,7 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 
 ## صوت
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/audio.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/audio.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف مشغل صوت بالخصائص التالية:
 	* الاسم الخاص به قائمة_تشغيل_ماهر_زين_وان
@@ -293,7 +293,7 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 
 ## عرض شرائح
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slideshow.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/slideshow.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف صفحة بالخصائص التالية:
 	* الاسم الخاص بها صفحة_تجربة
@@ -332,7 +332,7 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 
 ## حاوية
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/container.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/container.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف صفحة بالخصائص التالية:
 	* الاسم الخاص به صفحة_الترحيب
@@ -379,7 +379,7 @@ FX | Applying the FX effect you have specified on this image. | لا يوجد | 
 
 ## زر
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/button.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/button.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف زر مرفوع و مفتوح بالخصائص التالية:
 	* الاسم الخاص به عينة_زرار
@@ -427,7 +427,7 @@ switched | Determine if this button is switched on or not.
 
 ## تلميح
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/tooltip.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/tooltip.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف زر بالخصائص التالية:
 	* الاسم الخاص به عينة_زر
@@ -464,7 +464,7 @@ switched | Determine if this button is switched on or not.
 
 ## مكان كتابة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/textbox.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/textbox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف اضف مكان كتابة بعداد بالخصائص التالية:
 	* الاسم الخاص به عينة_مكان_كتابة
@@ -519,7 +519,7 @@ switched | Determine if this button is switched on or not.
 
 ## منزلق
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/slider.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/slider.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف منزلق بدبوس و بمعدل رقمى للقيمة بالخصائص التالية:
 	* الاسم الخاص به عينة_مكان-إدخال
@@ -570,7 +570,7 @@ switched | Determine if this button is switched on or not.
 
 ## قائمة منسدلة
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dropdownMenu.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/dropdownMenu.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف قائمة منسدلة بالخصائص التالية:
 	* الاسم الخاص بها قائمة_المميزات
@@ -606,7 +606,7 @@ switched | Determine if this button is switched on or not.
 
 ## جدول
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/table.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/table.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف جدول بالخصائص التالية:
 	* الاسم الخاص به عينة_جدول
@@ -640,7 +640,7 @@ switched | Determine if this button is switched on or not.
 
 ## مربع إختيار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/checkbox.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/checkbox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف مربع إختيار مختار بالخصائص التالية:
 	* الاسم الخاص به عينة_جدول
@@ -682,7 +682,7 @@ switched | Determine if this button is switched on or not.
 
 ## قائمة اختيار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/selectMenu.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/selectMenu.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف قائمة اختيار بالخصائص التالية:
 	* الاسم الخاص بها نوع_الرسالة
@@ -725,7 +725,7 @@ switched | Determine if this button is switched on or not.
 
 ## مربع حوار
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/dialogBox.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/dialogBox.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف مربع حوار بالخصائص التالية:
 	* الاسم الخاص به intro_video_container
@@ -757,7 +757,7 @@ switched | Determine if this button is switched on or not.
 
 ## شريط جانبى
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/sidebar.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/sidebar.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف شريط جانبى بالخصائص التالية:
 	* الاسم الخاص به الشريط_الجانبى_الرئيسى
@@ -790,7 +790,7 @@ switched | Determine if this button is switched on or not.
 
 ## Loader
 
-<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/Components/loader.js">اعرض الكود المصدرى</a></em><br>
+<em><a href="https://github.com/project-jste/framework/blob/master/src/JS/components/loader.js">اعرض الكود المصدرى</a></em><br>
 ```javascript
 اضف a loader بالخصائص التالية:
 	* الاسم الخاص به loading_spinner
